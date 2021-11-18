@@ -38,7 +38,7 @@
   
   ## How to reach me
 
-[<img src='https://img.shields.io/badge/Email-Rafaela%20Ruggeri-blue' alt='email'>](mail:rafaelaru22@hotmail.com) 
+[<img src='https://img.shields.io/badge/Email-Rafaela%20Ruggeri-blue' alt='email'>](mailto:rafaelaru22@hotmail.com) 
 
 [<img src='https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social' alt='linkedin'>](https://www.linkedin.com/in/rafaela-ruggeri/) 
   
