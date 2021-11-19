@@ -11,7 +11,7 @@ Hi there 👋
 The SPA consumes data from an API (https://pokeapi.co) through a Back  End developed in Node.JS using Express, adding functionalities to the original API.
 Some features of the project: Search cache, Sorts, Filters and Controlled Form.</p>
 <img  src='./image (2).png'/>  
-<img src='./image (3).png'/>  
+<img src='./image (9).png'/>  
 <img src='./image (4).png'/>
 <h6>.Disney App</h6>
 <p>Development of a SPA, using HTML, CSS, Bootstrap and Javascript.</p> 
