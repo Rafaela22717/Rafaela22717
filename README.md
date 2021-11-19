@@ -4,7 +4,7 @@
    <h1><em>Full-Stack Developer
    
      About me...
-   <h1>Proyects</h1>
+   <p>Proyects</hp>
     <h6>PokeApi</h6>
     <p>I am working on an E-Commerce about drinks, using SCRUM as an agile methodology, and different technologies such as: ReactJS, Redux, CSS, Bootstrap, Node.js, Express, MongoDB and Mongoose</p>
    <p>I worked SPA that consumes data from an API (https://pokeapi.co), using PostgreSQL, Sequalize, Node.js, Express, React, Redux and pure CSS. You can see the Pokémon, search for a specific Pokémon, sort them, filter them, and create new ones. <a href="https://github.com/davidheredia25/PI-Pokemon-FT17a">Code</a>-<a href="https://www.youtube.com/watch?v=e9-TloUKjIw">Video</a></p>
