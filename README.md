@@ -3,11 +3,11 @@
    <h1> I'm Rafaela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
    <h1><em>Full-Stack Developer
    
-     About me...
-   <p>Proyects</hp>
-    <h6>PokeApi</h6>
-    <p>I am working on an E-Commerce about drinks, using SCRUM as an agile methodology, and different technologies such as: ReactJS, Redux, CSS, Bootstrap, Node.js, Express, MongoDB and Mongoose</p>
-   <p>I worked SPA that consumes data from an API (https://pokeapi.co), using PostgreSQL, Sequalize, Node.js, Express, React, Redux and pure CSS. You can see the Pokémon, search for a specific Pokémon, sort them, filter them, and create new ones. <a href="https://github.com/davidheredia25/PI-Pokemon-FT17a">Code</a>-<a href="https://www.youtube.com/watch?v=e9-TloUKjIw">Video</a></p>
+#### About me...
+##### Proyects
+<h6>PokeApi</h6>
+<p>I am working on an E-Commerce about drinks, using SCRUM as an agile methodology, and different technologies such as: ReactJS, Redux, CSS, Bootstrap, Node.js, Express, MongoDB and Mongoose</p>
+<p>I worked SPA that consumes data from an API (https://pokeapi.co), using PostgreSQL, Sequalize, Node.js, Express, React, Redux and pure CSS. You can see the Pokémon, search for a specific Pokémon, sort them, filter them, and create new ones. <a href="https://github.com/davidheredia25/PI-Pokemon-FT17a">Code</a>-<a href="https://www.youtube.com/watch?v=e9-TloUKjIw">Video</a></p>
 
    <img  src='./image (2).png'/>
   
@@ -15,8 +15,8 @@
   
    <img src='./image (4).png'/>
 
-     <h6>PokeApi</h6>
-    <p>I am working on an E-Commerce about drinks, using SCRUM as an agile methodology, and different technologies such as: ReactJS, Redux, CSS, Bootstrap, Node.js, Express, MongoDB and Mongoose</p>
+<h6>PokeApi</h6>
+<p>I am working on an E-Commerce about drinks, using SCRUM as an agile methodology, and different technologies such as: ReactJS, Redux, CSS, Bootstrap, Node.js, Express, MongoDB and Mongoose</p>
  
   <img  src='./image (5).png'/>
   
@@ -41,7 +41,7 @@
 
 
 
-## Skills
+### Skills
 <p align="center">
 <img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/-PostgreSQL-326590?style=flat&logo=postgresql&logoColor=FFFFFF">
 </p>
   
-  ## How to reach me
+  ### How to reach me
 
 [<img src='https://img.shields.io/badge/Email-Rafaela%20Ruggeri-blue' alt='email'>](mailto:rafaelaru22@hotmail.com) 
 
