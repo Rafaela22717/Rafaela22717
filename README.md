@@ -1,7 +1,7 @@
 <div backround color="green">
 <img align="center" src= "https://img-17.ccm2.net/P-lU3EvBF8pHZ_AeevzfCDt4wy8=/500x/bf4cf708978041238bcc61ef905cc830/ccm-faq/niclas-illg-gyRa86ExKTw-unsplash.jpg" height="500px" width="auto" /> 
 <div/> 
-   <h1>I'am Rafaela Ruggeri!<h1/>
+   <h2> Hello!!, I'm Rafaela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
    
    
 <br></br><br></br><br></br>
