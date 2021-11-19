@@ -9,12 +9,12 @@ Hi there 👋
 <h6>.PokeApi</h6>
 <p>Developing a SPA using React to the Front End and Redux as state management. All the components were developed with CSS module without use of external libraries.
 The SPA consumes data from an API (https://pokeapi.co) through a Back  End developed in Node.JS using Express, adding functionalities to the original API.
-Some features of the project: Search cache, Sorts, Filters and Controlled Form  </p>
+Some features of the project: Search cache, Sorts, Filters and Controlled Form.</p>
 <img  src='./image (2).png'/>  
 <img src='./image (3).png'/>  
 <img src='./image (4).png'/>
-<h6>PokeApi</h6>
-<p>I am working on an E-Commerce about drinks, using SCRUM as an agile methodology, and different technologies such as: ReactJS, Redux, CSS, Bootstrap, Node.js, Express, MongoDB and Mongoose</p> 
+<h6>.Disney App</h6>
+<p>Development of a SPA, using HTML, CSS, Bootstrap and Javascript.</p> 
 <img  src='./image (5).png'/>  
 <img src='./image (7).png'/>
 <img src='./image (8).png'/>
@@ -36,7 +36,7 @@ Some features of the project: Search cache, Sorts, Filters and Controlled Form  
 
 
 
-### Skills
+#### Skills
 <p align="center">
 <img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -50,7 +50,7 @@ Some features of the project: Search cache, Sorts, Filters and Controlled Form  
 <img src="https://img.shields.io/badge/-PostgreSQL-326590?style=flat&logo=postgresql&logoColor=FFFFFF">
 </p>
   
-  ### How to reach me
+  #### How to reach me
 
 [<img src='https://img.shields.io/badge/Email-Rafaela%20Ruggeri-blue' alt='email'>](mailto:rafaelaru22@hotmail.com) 
 
