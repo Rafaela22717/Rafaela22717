@@ -15,7 +15,14 @@
   
    <img src='./image (4).png'/>
 
-    
+     <h6>PokeApi</h6>
+    <p>I am working on an E-Commerce about drinks, using SCRUM as an agile methodology, and different technologies such as: ReactJS, Redux, CSS, Bootstrap, Node.js, Express, MongoDB and Mongoose</p>
+ 
+  <img  src='./image (5).png'/>
+  
+   <img src='./image (7).png'/>
+  
+   <img src='./image (8).png'/>
    
    
    
