@@ -1,32 +1,23 @@
 <img align="center" src= "https://img-17.ccm2.net/P-lU3EvBF8pHZ_AeevzfCDt4wy8=/500x/bf4cf708978041238bcc61ef905cc830/ccm-faq/niclas-illg-gyRa86ExKTw-unsplash.jpg" height="500px" width="auto" /> 
- Hi there 👋
-   <h1> I'm Rafaela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-   <h1><em>Full-Stack Developer
-   
+Hi there 👋
+<h1> I'm Rafaela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1><em>Full-Stack Developer  
+ 
 #### About me...
+ 
 #### Proyects
-<P>.PokeApi</h6>
+<h6>.PokeApi</h6>
 <p>Developing a SPA using React to the Front End and Redux as state management. All the components were developed with CSS module without use of external libraries.
 The SPA consumes data from an API (https://pokeapi.co) through a Back  End developed in Node.JS using Express, adding functionalities to the original API.
 Some features of the project: Search cache, Sorts, Filters and Controlled Form  </p>
- 
-
-
-
-   <img  src='./image (2).png'/>
-  
-   <img src='./image (3).png'/>
-  
-   <img src='./image (4).png'/>
-
+<img  src='./image (2).png'/>  
+<img src='./image (3).png'/>  
+<img src='./image (4).png'/>
 <h6>PokeApi</h6>
-<p>I am working on an E-Commerce about drinks, using SCRUM as an agile methodology, and different technologies such as: ReactJS, Redux, CSS, Bootstrap, Node.js, Express, MongoDB and Mongoose</p>
- 
-  <img  src='./image (5).png'/>
-  
-   <img src='./image (7).png'/>
-  
-   <img src='./image (8).png'/>
+<p>I am working on an E-Commerce about drinks, using SCRUM as an agile methodology, and different technologies such as: ReactJS, Redux, CSS, Bootstrap, Node.js, Express, MongoDB and Mongoose</p> 
+<img  src='./image (5).png'/>  
+<img src='./image (7).png'/>
+<img src='./image (8).png'/>
    
    
    
